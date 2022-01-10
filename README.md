@@ -3,8 +3,10 @@ This app is the back end for an e-commerce site. It is using Express.js API and 
 Because this application is not  deployed, I am providing a walkthrough video that demonstrates its functionality. 
 
 ## Walkthrough videos URL
- First vidoe URl: https://watch.screencastify.com/v/FxsaUbmCku8euso0NKul 
+ First vidoe URl: https://watch.screencastify.com/v/FxsaUbmCku8euso0NKul   
+ 
  Second Vidoe URL: https://watch.screencastify.com/v/EtXvKPW1jXFV2XEFLWV8 
+ 
 ## How to run
 Use the `schema.sql` file in the `db` folder to create your database using MySQL shell commands. Use environment variables to store sensitive data, like your MySQL username, password, and database name.
 Add a .env file to the root folder to store sensitive data, like your MySQL username, password, and database name.
